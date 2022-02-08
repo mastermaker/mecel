@@ -9,7 +9,7 @@
         "guesses": "Guess а word in 6 tries.",
         "letters": "Each guess must be a valid 5 letter word. Hit the enter button to submit.",
         "colors": "After each guess, the color of the tiles will change to show how close your guess was to the word.",
-        "examples": "Examples",
+        "examples": "Аҿырԥштәқәа ",
         "e1Word": "weary",
         "e1Caption": "The letter 'W' is in the word and in the correct spot.",
         "e2Word": "house",
@@ -20,10 +20,10 @@
         "play": "Play",
         "share": "Share",
         "contact": "Contact",
-        "settings": "Settings",
+        "settings": "Архиарақәа",
         "unknown": "Unknown word",
         "coming": "The next word opens soon.",
-        "copied": "Copied",
+        "copied": "Зкопиа ахыху",
         "good": "Good job!"
     },
     "words": [
